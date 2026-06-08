@@ -1,7 +1,0 @@
-Hello World
-Another line
-<<<<<<< HEAD
-line 1
-line 2
-=======
->>>>>>> parent of 0a5cc50 (second commit)
